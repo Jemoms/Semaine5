@@ -1,12 +1,14 @@
 body{
-    background-image:url(../images/image.png);
-    padding:0;
-    margin:0;
+    background-image:url("Image/imagefondsf.jpg");
+    background-attachment:fixed;
+    height:100%;
+    padding:px;
+    margin:0px;
     color:white;
 }
 
 header, footer{
-    background-image:url(../images/image2.png);
+    background-image:url();
     padding:10px;
     width:100%;
 }
