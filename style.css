@@ -1,76 +1,89 @@
-body{
-    background-image:url("Image/fond.png");
-    padding:0;
+body
+{
+    /*padding:0;
     margin:0;
     color:black;
-    width:100%;
-    background-color: black;
+    width:100%;*/
+    background-color: #CDC3A9;
 }
 
-header{
+header
+{
     background-image:url("Image/image1.png");
-    padding:10px;
+    /*padding:10px;
     width:100%;
-    color:white;
+    color:white;*/
 }
 
-footer{
+main
+{
+    background-image:url("Image/fond.png");
+   /* width:100%;
+    margin:auto;*/
+}
+
+footer
+{
     background-image:url("Image/footer_lodyas.png");
-    padding:10px;
+    /*padding:10px;
     width:100%;
-    color:white;
+    color:white;*/
 }
 
-main{
-    width:100%;
-    margin:auto;
-}
 
-p{
+/*p
+{
     text-align:justify;
 }
 
-.conteneur{
+*/.conteneur
+{
     margin:15px;
     padding:10px;
-
 }
-
-.entete{
+/*
+.entete
+{
     width:30%;
     display:inline-block;
     vertical-align:top;
     box-sizing:border-box;
 }
 
-.image{
+.image
+{
     width:50%;
     display:inline-block;
     vertical-align:top;
     box-sizing:border-box;
 }
 
-header .image img{
+header .image img
+{
     width:50%
 }
 
-ul li{
+*/ul li
+{
     list-style-type:none;
 }
 
-.colonne{
-    width:30%;
+/*.colonne
+{
+    width:33,3333%;
     display:inline-block;
     vertical-align:top;
     box-sizing:border-box;
 }
-
-footer{
+/*
+footer
+{
     position:relative;
     bottom:0;
 }
 
-footer p{
+footer p
+{
     text-align:center;
     width:30%;
     display:inline-block;
@@ -79,8 +92,9 @@ footer p{
     margin-left:30px;
 }
 
-iframe{
+iframe
+{
     display:inline-block;
     vertical-align:top;
     box-sizing:border-box;
-}
+}*/
