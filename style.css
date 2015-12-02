@@ -36,11 +36,12 @@ footer
     text-align:justify;
 }
 
-*/.conteneur
-{
+*/
+.conteneur {
     margin:15px;
     padding:10px;
 }
+
 /*
 .entete
 {
