@@ -76,14 +76,51 @@ p
     text-align: justify;
 }
 
-.colonne
+/*.colonne
 {
-    width:33%;
+    width:30%;
     border: 1px black solid;
     padding: 10px;
     overflow: auto;
     display: inline-block;
     vertical-align: top;
+}*/
+
+#colleft
+{
+    float: left;
+    width: 33%;
+    border: 1px black solid;
+    padding: 10px;
+    display:inline-block;
+    vertical-align: top;
+    position:relative;
+
+}
+
+#colmid
+{
+    width:33%;
+    border: 1px black solid;
+    padding: 10px;
+    display: inline-block;
+        margin-left:10px;
+            margin-right:10px;
+    vertical-align: top;
+    overflow:auto;
+}
+
+#colright
+{
+    float: right;
+    width: 33%;
+    max-width:30px;
+    border: 1px black solid;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+    position:absolute;
+
 }
 
 h3, h1
