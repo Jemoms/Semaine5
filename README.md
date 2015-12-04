@@ -2,5 +2,7 @@
 
 Approfondissement du CV en ligne.
 
-Résultat en ligne :  : [CV Semaine 5] (http://Jemoms-foad.github.io/semaine5/)
+CV en html avec ajouts en CSS pour respecter les consignes.
+
+J'ai essayé de respecter à la lettre les consignes demandées pour
 

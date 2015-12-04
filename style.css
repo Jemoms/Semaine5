@@ -5,7 +5,7 @@
 
 body
 {
-    background-color:rgba(210,231,123,0.3);
+    background-color:black;
     margin:0;
     padding:0;
     color:white;
@@ -32,10 +32,9 @@ main
 footer 
 {
     width:100%;
-    background-image:url("Image/fond");
+    background-image:url("Image/image1.png");
     background-repeat:repeat;
     background-attachment:fixed;
-    color:black;
 }
 
 .conteneur
@@ -89,23 +88,19 @@ p
 #colleft
 {
     float: left;
-    width: 33%;
-    border: 1px black solid;
+    width: 32%;
     padding: 10px;
     display:inline-block;
     vertical-align: top;
-    position:relative;
-
 }
 
 #colmid
 {
-    width:33%;
-    border: 1px black solid;
+    width:32%;
     padding: 10px;
     display: inline-block;
-        margin-left:10px;
-            margin-right:10px;
+    margin-left:10px;
+    margin-right:10px;
     vertical-align: top;
     overflow:auto;
 }
@@ -113,13 +108,12 @@ p
 #colright
 {
     float: right;
-    width: 33%;
-    max-width:30px;
-    border: 1px black solid;
+    width: 32%;
     padding: 10px;
     display: inline-block;
     vertical-align: top;
-    position:absolute;
+    margin-right:10px;
+    position: absolute;
 
 }
 
