@@ -2,7 +2,5 @@
 
 Approfondissement du CV en ligne.
 
-CV en html avec ajouts en CSS pour respecter les consignes.
-
-J'ai essayé de respecter à la lettre les consignes demandées pour
+CV en html avec ajouts en CSS pour respecter les consignes de la semaine 5.
 
