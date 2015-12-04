@@ -1,4 +1,108 @@
+*
+{
+    box-sizing :border-box;
+}
+
 body
 {
-    
+    background-color:rgba(210,231,123,0.3);
+    margin:0;
+    padding:0;
+    color:white;
+}
+
+header
+{
+    width:100%;
+    background-image:url("Image/image1.png");
+    background-repeat:repeat;
+    background-attachment:fixed;
+    color:green;
+}
+
+main 
+{
+    width:100%;
+    background-image:url("Image/footer_lodyas.png");
+    background-repeat:repeat;
+    background-attachment:fixed;
+    margin: auto;
+}
+
+footer 
+{
+    width:100%;
+    background-image:url("Image/fond");
+    background-repeat:repeat;
+    background-attachment:fixed;
+    color:black;
+}
+
+.conteneur
+{
+    width:100%;
+    max-width:960px;
+    padding:10px;
+    margin:15px;
+    display:inline-block
+}
+
+
+.photo
+{
+	width:20%;
+	border-left: 3px yellow solid;
+	border-top: 3px yellow solid;
+	border-radius:50px;
+    box-shadow: 10px 10px 10px black;
+	display: inline-block;
+	vertical-align: top;
+	}
+
+.entete
+{
+    margin-left:50px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.mail
+{
+    color: green;
+}
+
+p
+{
+    text-align: justify;
+}
+
+.colonne
+{
+    width:33%;
+    border: 1px black solid;
+    padding: 10px;
+    overflow: auto;
+    display: inline-block;
+    vertical-align: top;
+}
+
+h3, h1
+{
+    text-align: center;
+    color: green;
+}
+
+footer p
+{
+    text-align: center;
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 30px;
+}
+
+iframe
+{
+    display: inline-block;
+    vertical-align: top;
 }
